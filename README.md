@@ -24,7 +24,7 @@ The main focus of this project is understanding how Flexbox works to build flexi
 - Improving CSS organization for layout projects
 
 ## Live Preview
-gabfrancadev.github.io/flexblog/
+https://gabfrancadev.github.io/flexblog/
 
 ## Credits
 This project was developed as part of the Origamid front-end course for educational purposes.
